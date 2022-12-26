@@ -1,4 +1,4 @@
-# hibernate <img src="https://www.alura.com.br/assets/api/cursos/persistencia-jpa-introducao-hibernate.svg" width=50/>
+# Persistência com JPA: Hibernate <img src="https://www.alura.com.br/assets/api/cursos/persistencia-jpa-introducao-hibernate.svg" width=50/>
 
 Exercitando e praticando a evolução do projeto <a href="https://github.com/MiguelProgrammer/jdbc">Jdbc</a>. 
 
