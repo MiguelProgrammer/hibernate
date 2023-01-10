@@ -11,9 +11,6 @@
         <module name="loja-virtual2" />
       </profile>
     </annotationProcessing>
-    <bytecodeTargetLevel>
-      <module name="loja-virtual-repository" target="1.8" />
-    </bytecodeTargetLevel>
   </component>
   <component name="JavacSettings">
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">

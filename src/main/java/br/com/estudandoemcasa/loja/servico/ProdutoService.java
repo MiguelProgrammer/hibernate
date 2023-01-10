@@ -2,7 +2,9 @@ package br.com.estudandoemcasa.loja.servico;
 
 import br.com.estudandoemcasa.loja.entities.Produto;
 
-public interface ProdutoService {
+import java.util.List;
 
-    Boolean cadastrarProduto(Produto produto);
+public interface ProdutoService {
+    Produto cadastrarProduto(Produto produto);
+    List<Produto> listaProdutos();
 }

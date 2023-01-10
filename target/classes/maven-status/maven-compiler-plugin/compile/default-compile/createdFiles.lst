@@ -1,5 +1,11 @@
-br\com\estudandoemcasa\loja\entities\Produto.class
-br\com\estudandoemcasa\loja\Main.class
-br\com\estudandoemcasa\loja\servico\impl\ProdutoServiceIMPL.class
-br\com\estudandoemcasa\loja\repository\ProdutoRepository.class
+br\com\estudandoemcasa\loja\servico\impl\CategoriaServiceIMPL.class
 br\com\estudandoemcasa\loja\servico\ProdutoService.class
+br\com\estudandoemcasa\loja\Main.class
+br\com\estudandoemcasa\loja\repository\CategoriaRepository.class
+br\com\estudandoemcasa\loja\config\ApplicationConfig.class
+br\com\estudandoemcasa\loja\entities\Categoria.class
+br\com\estudandoemcasa\loja\servico\impl\ProdutoServiceIMPL.class
+br\com\estudandoemcasa\loja\servico\CategoriaService.class
+br\com\estudandoemcasa\loja\entities\Produto.class
+br\com\estudandoemcasa\loja\repository\ProdutoRepository.class
+br\com\estudandoemcasa\loja\constants\Constants.class
