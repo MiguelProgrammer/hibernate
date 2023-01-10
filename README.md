@@ -8,8 +8,9 @@ Exercising and practicing the evolution of the Jdbc project.
 
 <p style="text-align:justify">My project using Jdbc in practice was, as we know, made entirely apart from the crud in hand, trying to respect the high cost and low complement, now with the Hibernate framework and its Jpa specification, I intend to use its abstractions and in fact save more time/implementation in the search for the creation of repositories, since the previous project, we understand how the construction is done under two panes, so we can continue with the evolution of persistence in the Database.</p>
 
-Dependencys on project:
+Dependencys on project | Java by JDK 11:
 
+* <a href="https://spring.io/projects/spring-boot">Spring Boot 2.7.7</a> <img src="https://spring.io/images/spring-logo-2022-93b99aee11ba10c57283810ff6f7f500.svg" width=130/>
 * <a href="https://projectlombok.org/setup/maven">Lombok</a> <img src="https://www.opencodez.com/wp-content/uploads/2018/08/lombok.png" width=30/>
 * <a href="https://mvnrepository.com/artifact/org.hibernate/hibernate-entitymanager">Hibernate</a> <img src="https://www.alura.com.br/assets/api/cursos/persistencia-jpa-introducao-hibernate.svg" width=30/>
 * <a href="https://mvnrepository.com/artifact/com.h2database/h2/2.1.214">DB-H2</a> <img src="https://www.h2database.com/html/images/h2-logo-2.png" width=30/>
