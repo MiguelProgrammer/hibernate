@@ -13,3 +13,8 @@ Dependencys on project:
 * <a href="https://projectlombok.org/setup/maven">Lombok</a> <img src="https://www.opencodez.com/wp-content/uploads/2018/08/lombok.png" width=30/>
 * <a href="https://mvnrepository.com/artifact/org.hibernate/hibernate-entitymanager">Hibernate</a> <img src="https://www.alura.com.br/assets/api/cursos/persistencia-jpa-introducao-hibernate.svg" width=30/>
 * <a href="https://mvnrepository.com/artifact/com.h2database/h2/2.1.214">DB-H2</a> <img src="https://www.h2database.com/html/images/h2-logo-2.png" width=30/>
+<hr>
+<p>Console run application</p>
+<img src="https://i.imgur.com/cd4aVEw.png" width=1100/>
+<hr>
+<p><a href="https://cursos.alura.com.br/certificate/10179508-886a-4d8e-8547-a891cb45526b" target="_blank">finished course</a></p>
